@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Happy Places App</string>
+    <style name="CustomNoActionBarTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_blue</item>
+    </style>
+    <style name="CustomToolBarStyle">
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:colorControlNormal">#FFFFFF</item>
+    </style>
+
+</resources>
